@@ -1,0 +1,8 @@
+{
+"name": "GloomBot",
+"version": "1.0.0",
+"description": "Gloomhaven data bot",
+"main": "index.js",
+"author": "Jeff Melling",
+"dependencies": {}
+}
